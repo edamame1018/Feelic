@@ -1,7 +1,7 @@
 # Feelic
 登録済みの楽譜検索用のプラットフォームです
 
-yoshidaasatoとnokopi36との共同開発です  
+[yoshidaasato](https://github.com/yoshidaasato)と[nokopi36](https://github.com/nokopi36)との共同開発です  
 広島市立大学　吹奏楽部で保存されている楽譜の検索ができます。  
 
 
