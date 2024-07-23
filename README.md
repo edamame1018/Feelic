@@ -16,3 +16,4 @@
 
 一つのHTMLファイルにHTML,Javascript,CSSの記述を集約しています。
 画像ファイルは、WebページとしてHTMLファイルを開いたときの外観として使用しています。
+!!!!hello world !!!
